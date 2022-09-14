@@ -1,0 +1,11 @@
+.content-todo-list{
+    padding: 15px 30px;
+}
+.content-todo-list h2{
+    text-align: center;
+}
+.content-todo-list .search-bar{
+    width: 100%;
+    padding:6px;
+    outline: none;
+}

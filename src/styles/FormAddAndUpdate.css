@@ -1,0 +1,44 @@
+.wrapper-form{
+    padding:15px 0;
+}
+h2{
+    text-align:center;
+}
+.wrapper-form button{
+    width: 100%;
+    padding:8px 12px;
+    background-color: #5cb85c;
+}
+.wrapper-form div{
+    margin-bottom: 20px;
+}
+.wrapper-form__title{
+    width: 100%;
+    padding: 6px;
+    outline: none;
+    margin-bottom: 20px;
+}
+.wrapper-form label{
+    display: block;
+    margin-bottom: 4px;
+}
+.wrapper-form textarea{
+    width: 100%;
+}
+.warpper-timeAndStatus{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.warpper-timeAndStatus__status{
+    width: 100%;
+    outline: none;
+    padding: 5px 8px;
+}
+.warpper-timeAndStatus div{
+    width: 50%;
+}
+.warpper-timeAndStatus input{
+   padding: 4px 8px;
+   width: 86%;
+}

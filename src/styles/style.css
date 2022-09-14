@@ -1,0 +1,11 @@
+.custom-col{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border: 1px solid #333;
+}
+.boder-col-form{
+ border: 1px solid #333;
+ border-right: none
+}
+.row{margin-top: 100px;}

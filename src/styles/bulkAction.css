@@ -1,0 +1,17 @@
+.content-bulk-action {
+    margin:0 -13px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #e0e0e0;
+    padding: 10px 15px;
+    border: 1px solid #333;
+    /* border-top: none; */
+}
+.content-bulk-action .btn-remove{
+    background-color: #d9534f;
+    margin-left: 20px;
+}
+.content-bulk-action .btn-done{
+    background-color: #2196f3;
+}

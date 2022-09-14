@@ -1,0 +1,36 @@
+@media (max-width: 480px) {
+    .content-bulk-action{
+        margin: 0 -4px;
+        border: none;
+    }
+    .row{
+        border: none !important;
+        margin: 0;
+    }
+    .content-todo-list{
+        border: none;
+    }
+    .wrapper-todo-item__wrap-btn .btn-details{
+        margin-right: 4px;
+    }
+    .boder-col-form{
+        border-right: 1px solid #333 !important;
+    }
+  }
+
+  @media (min-width: 768px) and (max-width: 1024px)  {
+    .content-bulk-action{
+        margin: 0 -9px;
+    }
+    .wrapper-todo-item__wrap-btn .btn-details{
+        margin-right: 4px;
+    }
+    .warpper-timeAndStatus{
+        flex-direction: column;
+        justify-content:unset;
+        align-items: unset;
+    }
+    .warpper-timeAndStatus div, .warpper-timeAndStatus div input{
+        width: 100%;
+    }
+  }
